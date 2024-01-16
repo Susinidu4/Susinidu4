@@ -5,7 +5,7 @@
 
 ---
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="230"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="350" height="230"/>
 
 - 🧑‍🎓 I’m an Undergraduate at **SLIIT**
 
