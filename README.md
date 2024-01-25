@@ -23,6 +23,12 @@
 <a href="https://instagram.com/susinidu sachinthana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="susinidu sachinthana" height="30" width="40" /></a>
 </p>
 
+<p align="center">
+<a href="https://linkedin.com/in/susinidu-sachinthana-17SS4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="susinidu-sachinthana-17SS4" height="30" width="40" /></a>
+<a href="https://fb.com/susinidu.sachinthana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Susinidu Sachinthana" height="30" width="40" /></a>
+<a href="https://instagram.com/susinidu_sachinthana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="susinidu_sachinthana" height="30" width="40" /></a>
+</p>
+
 ---
 
 <h3 align="left">Languages and Tools:</h3>
