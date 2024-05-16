@@ -1,4 +1,3 @@
-![Black   Gold Elegant Personal LinkedIn Banner (1)](https://github.com/Susinidu4/Susinidu4/assets/155086679/86f0acb2-aed2-405d-899f-a4cd199393d3)
 
 <h1 align="center">Hi <img src="https://github.com/Parply/Parply/blob/master/.github/Hi.gif?raw=true" width="30px">, I'm Susinidu Sachinthana</h1>
 <h3 align="center">I am an ungraduated student of BSc (Hons) in Information Technology Specializing in Software Engineering.</h3>
