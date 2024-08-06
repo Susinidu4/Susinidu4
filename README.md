@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi <img src="https://github.com/Parply/Parply/blob/master/.github/Hi.gif?raw=true" width="30px">, I'm Susinidu Sachinthana</h1>
-<h3 align="center">I am an ungraduated student of BSc (Hons) in Information Technology Specializing in Software Engineering.</h3>
+<h3 align="center">I am an ungraduated student of BSc (Hons) Degree in Information Technology Specialized in Information Technology.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=susinidu4&label=Profile%20views&color=0e75b6&style=flat" alt="susinidu4" /> </p>
 
