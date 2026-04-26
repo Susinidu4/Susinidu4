@@ -27,15 +27,15 @@
 <h3 align="left">🌐 Connect with Me</h3>
 
 <p align="left">
-  <a href="https://linkedin.com/in/susinidu-sachinthana-17SS4" target="_blank" style="text-decoration:none;">
+  <a href="https://linkedin.com/in/susinidu-sachinthana-17SS4" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="45" width="45" />
   </a>
-  
-  <a href="https://fb.com/susinidu.sachinthana" target="_blank" style="text-decoration:none;">
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://fb.com/susinidu.sachinthana" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" height="45" width="45" />
   </a>
-  
-  <a href="https://instagram.com/susinidu_sachinthana" target="_blank" style="text-decoration:none;">
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/susinidu_sachinthana" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" height="45" width="45" />
   </a>
 </p>
@@ -43,6 +43,7 @@
 <p align="left">
   <i>Let's connect and build something amazing together 🚀</i>
 </p>
+
 ---
 
 ### Tech Stack
